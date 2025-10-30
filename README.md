@@ -2,11 +2,23 @@
 Referencias y fuentes bibliográficas del proyecto EHECATL: dron para monitoreo de contaminantes atmosféricos.
 Bibliografía
 [1]	Organización Panamericana de la Salud, “Calidad del Aire Ambiente”. Organización Mundial de la Salud (OMS), 2022. Disponible en: https://www.paho.org/es/temas/calidad-aire-salud/calidad-aire-ambiente [consultado en febrero de 2023].
+
+
 [2]	Organización Mundial de la Salud, “Contaminación atmosférica”. Temas de Salud: OMS, 2022. Disponible en: https://www.who.int/es/health-topics/air-pollution#tab=tab_1 [Consultado en febrero de 2023].
+
+
 [3]	Organización Panamericana de la Salud, “Contaminación del aire ambiental exterior y en la vivienda: Preguntas frecuentes”, 2018. Disponible en: https://www.paho.org/es/temas/calidad-aire-salud/contaminacion-aire-ambiental-exterior-vivienda-preguntas-frecuentes#:~:text=La%20contaminaci%C3%B3n%20del%20aire%20puede,impactos%20adversos%20en%20la%20salud [consultado en febrero de 2023].
+
+
 [4]	E. Aránguez, J. M. Ordóñez y J. Serrano, “Contaminantes atmosféricos y su vigilancia”. Rev Esp Salud Pública, Vol. 73, pp. 125-127. Abril, 1999. Disponible en: https://scielo.isciii.es/pdf/resp/v73n2/contam_atmos.pdf [Consultado en febrero de 2023].
+
+
 [5]	C. A. Chan Keb, C. M. Agraz Hernández y R. A. Pérez Balán, “Química ambiental”. ECORFAN-México, Primera edición, pp. 42, 2022. Disponible en: https://www.researchgate.net/publication/366319225_Quimica_Ambiental [Consultado en diciembre de 2023].
+
+
 [6]	Secretaría de Medio Ambiente y Recursos Naturales, “Contaminantes atmosféricos: Características y algunos efectos a la salud”, 2018. Disponible en: https://apps1.semarnat.gob.mx:8443/dgeia/compendio_2018/dgeiawf.semarnat.gob.mx_8080/ibi_apps/WFServlet5b91.html#:~:text=La%20concentraci%C3%B3n%20de%20las%20part%C3%ADculas,promedio%20anual%2012%20%C2%B5g%2Fm3. [Consultado en diciembre de 2023].
+
+
 [7]	Secretaría de Medio Ambiente y Ordenamiento Territorial (SMAOT), “Monitoreo atmosférico Abasolo – índice Aire Salud”. Subsistema Estatal de Información de Calidad del Aire (SEICA), Guanajuato, México, 2023. Disponible en: https://smaot.guanajuato.gob.mx/sitio/seica/monitoreo/abasolo [Consultado en diciembre de 2023].
 [8]	L. Escalona, L. Manganiello & M. López Fonseca, “Los sensores químicos y su utilidad en el control de gases contaminantes”. Revista Ingeniería UC, Vol. 19.  Facultad de Ingeniería, pp. 75, 2012. Disponible en: http://servicio.bc.uc.edu.ve/ingenieria/revista/v19n1/art09.pdf [Consultado en febrero de 2023].
 [9]	Nova Fitness Co., Ltd., “Laser PM2.5 Sensor specification. Product model: SDS011 Version: V1.3”. 2015. Disponible en: https://cdn-reichelt.de/documents/datenblatt/X200/SDS011-DATASHEET.pdf [Consultado en diciembre de 2023].
